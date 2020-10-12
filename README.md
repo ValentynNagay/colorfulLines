@@ -1,1 +1,2 @@
-This is a test task to enroll in a JS course in a company.
+## Description
+This is an implementation of a test task to enroll in a basic JS course.
